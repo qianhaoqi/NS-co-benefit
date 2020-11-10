@@ -1,1 +1,0 @@
-please run "./code/code.py" first ! 
